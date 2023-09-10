@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "name": "JtlcMobile",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "debug"
+    }
+  ]
+}

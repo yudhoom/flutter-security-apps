@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="229px" height="25px" viewBox="0 0 229 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>step1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="10.5" cy="10.5" r="10.5"></circle>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Mobile-Extension" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="step1">
+            <g transform="translate(1.000000, 2.000000)">
+                <path d="M10.9981098,11 L217.002426,11" id="Line" stroke="#DFDFDF" stroke-width="2" stroke-linecap="square"></path>
+                <g id="Group">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FF6600" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <text id="1" font-family="CascadiaMono-Regular, Cascadia Mono" font-size="15" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="6" y="16">1</tspan>
+                    </text>
+                    <circle id="Oval-Copy" fill="#DFDFDF" cx="113.5" cy="10.5" r="10.5"></circle>
+                    <circle id="Oval-Copy-2" fill="#DFDFDF" cx="216.5" cy="10.5" r="10.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1044322651897",
+    "firebase_url": "https://my-japfa-prod-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "my-japfa-prod",
+    "storage_bucket": "my-japfa-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044322651897:android:ba14de4e3d3827d6de5c28",
+        "android_client_info": {
+          "package_name": "com.japfacomfeed.myjapfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044322651897-lo9jpdihdrr9vgqhppkk3okthhbem7bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNE0sfEwvrj6jcQmXM_o6y-NNKoetez2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044322651897-lo9jpdihdrr9vgqhppkk3okthhbem7bq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044322651897-ihktlunimc2p41b7qna1l0oi2fq02qu8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.japfacomfeed.myjapfa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044322651897:android:3eeb927646f5712ede5c28",
+        "android_client_info": {
+          "package_name": "com.jtlc.security"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044322651897-lo9jpdihdrr9vgqhppkk3okthhbem7bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNE0sfEwvrj6jcQmXM_o6y-NNKoetez2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044322651897-lo9jpdihdrr9vgqhppkk3okthhbem7bq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044322651897-ihktlunimc2p41b7qna1l0oi2fq02qu8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.japfacomfeed.myjapfa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
